@@ -42,8 +42,6 @@ By default gmx instruments selected values from the  `runtime` and `os` packages
 
 ## Changelog
 
-6/Feb/2012 
-
 +	gmx now honors the value of os.TempDir() when opening the unix socket
 +	gmxc now accepts regexps for key names
 +	Initial release
